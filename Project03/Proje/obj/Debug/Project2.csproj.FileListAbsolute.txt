@@ -1,0 +1,55 @@
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Proje\bin\Debug\Proje.exe.config
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Proje\bin\Debug\Proje.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Proje\bin\Debug\Proje.pdb
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Proje\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Proje\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Proje\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Proje\obj\Debug\Proje.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Proje\obj\Debug\Proje.pdb
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Proje\obj\Debug\Project2.Form1.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Proje\obj\Debug\Project2.Form_ChartDisplay.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 - Copy\Proje\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 - Copy\Proje\obj\Debug\Project2.Form1.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 - Copy\Proje\obj\Debug\Project2.Form_ChartDisplay.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 - Copy\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 - Copy\Proje\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 - Copy\Proje\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 - Copy\Proje\obj\Debug\Proje.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 - Copy\Proje\obj\Debug\Proje.pdb
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 - Copy\Proje\bin\Debug\Proje.exe.config
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 - Copy\Proje\bin\Debug\Proje.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 - Copy\Proje\bin\Debug\Proje.pdb
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02\Proje\bin\Debug\Proje.exe.config
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02\Proje\bin\Debug\Proje.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02\Proje\bin\Debug\Proje.pdb
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02\Proje\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02\Proje\obj\Debug\Project2.Form1.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02\Proje\obj\Debug\Project2.Form_ChartDisplay.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02\Proje\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02\Proje\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02\Proje\obj\Debug\Proje.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02\Proje\obj\Debug\Proje.pdb
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 new\Proje\bin\Debug\Proje.exe.config
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 new\Proje\bin\Debug\Proje.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 new\Proje\bin\Debug\Proje.pdb
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 new\Proje\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 new\Proje\obj\Debug\Project2.Form1.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 new\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 new\Proje\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 new\Proje\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 new\Proje\obj\Debug\Proje.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 new\Proje\obj\Debug\Proje.pdb
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project02 new\Proje\obj\Debug\Project2.Form_ChartDisplay.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project03\Proje\bin\Debug\Proje.exe.config
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project03\Proje\bin\Debug\Proje.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project03\Proje\bin\Debug\Proje.pdb
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project03\Proje\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project03\Proje\obj\Debug\Project2.Form1.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project03\Proje\obj\Debug\Project2.Form_ChartDisplay.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project03\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project03\Proje\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project03\Proje\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project03\Proje\obj\Debug\Proje.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project03\Proje\obj\Debug\Proje.pdb

@@ -1,0 +1,20 @@
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001 - Copy\Project001\bin\Debug\Project001.exe.config
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001 - Copy\Project001\bin\Debug\Project001.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001 - Copy\Project001\bin\Debug\Project001.pdb
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001 - Copy\Project001\obj\Debug\Project001.csproj.AssemblyReference.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001 - Copy\Project001\obj\Debug\Project001.Form1.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001 - Copy\Project001\obj\Debug\Project001.Properties.Resources.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001 - Copy\Project001\obj\Debug\Project001.csproj.GenerateResource.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001 - Copy\Project001\obj\Debug\Project001.csproj.CoreCompileInputs.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001 - Copy\Project001\obj\Debug\Project001.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001 - Copy\Project001\obj\Debug\Project001.pdb
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Project001\bin\Debug\Project001.exe.config
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Project001\bin\Debug\Project001.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Project001\bin\Debug\Project001.pdb
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Project001\obj\Debug\Project001.csproj.AssemblyReference.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Project001\obj\Debug\Project001.Form1.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Project001\obj\Debug\Project001.Properties.Resources.resources
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Project001\obj\Debug\Project001.csproj.GenerateResource.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Project001\obj\Debug\Project001.csproj.CoreCompileInputs.cache
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Project001\obj\Debug\Project001.exe
+C:\Users\jesph\Desktop\Jessica's folder\Jessica\USF\SPRING 2025\COP 4365 Spring 2025\Project001\Project001\obj\Debug\Project001.pdb
